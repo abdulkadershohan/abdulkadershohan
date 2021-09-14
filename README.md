@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @abdulkadershohan
-- 👀 I’m interested in web development and app development 
+- 👀 I’m interested in Deb Development and Application Development 
 - 🌱 I’m currently learning ReactJs and React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-abdulkadershohan/abdulkadershohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*** An extremely positive and individual & can stay focused and motivated. Responsible, 
+dependable and takes great pride in all my work. Can work both independently and in a team, 
+which has been proven from past work experience and academic experiences ***
+
+
