@@ -12,7 +12,7 @@ An extremely positive and individual & can stay focused and motivated. Responsib
 * 🚀  I'm currently working on [RBS LTD ERP](http://161.97.157.117:5001)
 * 🧠  I'm learning Next JS & Tallwindcss
 * 🤝  I'm open to collaborating on front-end web development or mobile app development
-<span style="color: green"> Some green text </span>
+
 <a href="https://www.github.com/abdulkadershohan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdulkadershohan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
