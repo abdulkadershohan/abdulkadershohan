@@ -7,12 +7,12 @@ I am a front-end developer and a designer. I am passionate about building web ap
 An extremely positive and individual & can stay focused and motivated. Responsible, dependable and takes great pride in all my work. Can work both independently and in a team, which has been proven from past work experience and academic experiences. I am a quick learner and can adapt to new environments and situations. 
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [MD.Abdul Kader]([https://abdulkadershohan.netlify.app](https://dev-shohan.netlify.app/))
+* 🖥️  See my portfolio at [MD.Abdul Kader](https://dev-shohan.netlify.app/)
 * ✉️  You can contact me at [abdulkadirshohan@gmail.com](abdulkadirshohan@gmail.com)
 * 🚀  I'm currently working on [RBS LTD ERP](http://161.97.157.117:5001)
 * 🧠  I'm learning Next JS & Tallwindcss
 * 🤝  I'm open to collaborating on front-end web development or mobile app development
-
+<span style="color: green"> Some green text </span>
 <a href="https://www.github.com/abdulkadershohan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdulkadershohan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
