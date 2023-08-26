@@ -9,7 +9,7 @@ An extremely positive and individual & can stay focused and motivated. Responsib
 * 🖥️  See my portfolio at [MD.Abdul Kader](https://dev-shohan.netlify.app/)
 * ✉️  You can contact me at [abdulkadirshohan@gmail.com](abdulkadirshohan@gmail.com)
 * 🚀  I'm currently working on [RBS LTD ERP](http://161.97.157.117:5001)
-* 🧠  I'm learning <b>Tallwindcss</b>
+* 🧠  I'm learning <b>Node</b>, <b>Express</b>, <b>Mongodb</b>
 * 🤝  I'm open to collaborating on front-end web development or mobile app development
 
 <a href="https://www.github.com/abdulkadershohan" target="_blank" rel="noreferrer"><img
