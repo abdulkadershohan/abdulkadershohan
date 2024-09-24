@@ -8,7 +8,7 @@ An extremely positive and individual & can stay focused and motivated. Responsib
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MD.Abdul Kader](https://dev-shohan.netlify.app/)
 * ✉️  You can contact me at [abdulkadirshohan@gmail.com](abdulkadirshohan@gmail.com)
-* 🚀  I'm currently working on [RBS LTD ERP](http://161.97.157.117:5001)
+* 🚀  Software Engineer at [Akij iBOS Limited](https://ibos.io/)
 * 🧠  I'm learning <b>Node</b>, <b>Express</b>, <b>Mongodb</b>
 * 🤝  I'm open to collaborating on front-end web development or mobile app development
 
